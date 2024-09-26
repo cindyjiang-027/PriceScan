@@ -8,9 +8,9 @@ import SwiftUI
 
 @main
 struct PriceCheckApp: App {
-    var body: some Scene {
-        WindowGroup {
-            ScanListView()
-        }
+  var body: some Scene {
+    WindowGroup {
+      ScanListView()
     }
+  }
 }
